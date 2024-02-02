@@ -1,0 +1,58 @@
+{
+    "map": {
+        "2780:2777": {
+            "x": 2780,
+            "y": 2777,
+            "object_code": "red_ball"
+        },
+        "2785:2780": {
+            "x": 2785,
+            "y": 2780,
+            "object_code": "purple_ball"
+        },
+        "2777:2784": {
+            "x": 2777,
+            "y": 2784,
+            "object_code": "purple_ball"
+        },
+        "2777:2783": {
+            "x": 2777,
+            "y": 2783,
+            "object_code": "purple_ball"
+        },
+        "2777:2782": {
+            "x": 2777,
+            "y": 2782,
+            "object_code": "purple_ball"
+        },
+        "2770:2780": {
+            "x": 2770,
+            "y": 2780,
+            "object_code": "cyan_ball"
+        },
+        "2777:2768": {
+            "x": 2777,
+            "y": 2768,
+            "object_code": "white_ball"
+        }
+    },
+    "player_position": {
+        "x": 2777,
+        "y": 2777
+    },
+    "min_score_to_win": 100,
+    "time_limit": 6,
+    "max_speed": 250,
+    "acceleration": 12,
+    "zoom_value": 20,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c10.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1"
+}

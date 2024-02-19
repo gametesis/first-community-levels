@@ -1,0 +1,103 @@
+{
+    "map": {
+        "2777:2781": {
+            "x": 2777,
+            "y": 2781,
+            "object_code": "green_ball"
+        },
+        "2774:2772": {
+            "x": 2774,
+            "y": 2772,
+            "object_code": "blue_ball"
+        },
+        "2774:2789": {
+            "x": 2774,
+            "y": 2789,
+            "object_code": "red_ball"
+        },
+        "2771:2772": {
+            "x": 2771,
+            "y": 2772,
+            "object_code": "blue_ball"
+        },
+        "2777:2789": {
+            "x": 2777,
+            "y": 2789,
+            "object_code": "red_ball"
+        },
+        "2781:2785": {
+            "x": 2781,
+            "y": 2785,
+            "object_code": "yellow_ball"
+        },
+        "2781:2786": {
+            "x": 2781,
+            "y": 2786,
+            "object_code": "yellow_ball"
+        },
+        "2781:2787": {
+            "x": 2781,
+            "y": 2787,
+            "object_code": "yellow_ball"
+        },
+        "2781:2788": {
+            "x": 2781,
+            "y": 2788,
+            "object_code": "yellow_ball"
+        },
+        "2781:2789": {
+            "x": 2781,
+            "y": 2789,
+            "object_code": "yellow_ball"
+        },
+        "2783:2787": {
+            "x": 2783,
+            "y": 2787,
+            "object_code": "white_ball"
+        },
+        "2785:2785": {
+            "x": 2785,
+            "y": 2785,
+            "object_code": "yellow_ball"
+        },
+        "2785:2786": {
+            "x": 2785,
+            "y": 2786,
+            "object_code": "yellow_ball"
+        },
+        "2785:2787": {
+            "x": 2785,
+            "y": 2787,
+            "object_code": "yellow_ball"
+        },
+        "2785:2788": {
+            "x": 2785,
+            "y": 2788,
+            "object_code": "yellow_ball"
+        },
+        "2785:2789": {
+            "x": 2785,
+            "y": 2789,
+            "object_code": "yellow_ball"
+        }
+    },
+    "player_position": {
+        "x": 2777,
+        "y": 2777
+    },
+    "min_score_to_win": 100,
+    "time_limit": 30,
+    "acceleration": 12,
+    "max_speed": 250,
+    "zoom_value": 20,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c10.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1"
+}

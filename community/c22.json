@@ -104,6 +104,26 @@
             "x": 2290,
             "y": 2271,
             "object_code": "black_ball"
+        },
+        "2287:2275": {
+            "x": 2287,
+            "y": 2275,
+            "object_code": "white_ball"
+        },
+        "2287:2274": {
+            "x": 2287,
+            "y": 2274,
+            "object_code": "white_ball"
+        },
+        "2288:2274": {
+            "x": 2288,
+            "y": 2274,
+            "object_code": "white_ball"
+        },
+        "2288:2275": {
+            "x": 2288,
+            "y": 2275,
+            "object_code": "white_ball"
         }
     },
     "player_position": {
@@ -118,7 +138,7 @@
     "add_powers": false,
     "map_edge_type": "deadly",
     "edge_distance": 300,
-    "next_level": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c10.json",
+    "next_level": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c23.json",
     "slow_time": "0.5",
     "slow_time_duration": "1",
     "size_power": "20",

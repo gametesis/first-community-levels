@@ -1,0 +1,73 @@
+{
+    "map": {
+        "2267:2272": {
+            "x": 2267,
+            "y": 2272,
+            "object_code": "white_ball"
+        },
+        "2281:2270": {
+            "x": 2281,
+            "y": 2270,
+            "object_code": "yellow_ball"
+        },
+        "2281:2262": {
+            "x": 2281,
+            "y": 2262,
+            "object_code": "purple_ball"
+        },
+        "2281:2261": {
+            "x": 2281,
+            "y": 2261,
+            "object_code": "blue_ball"
+        },
+        "2281:2260": {
+            "x": 2281,
+            "y": 2260,
+            "object_code": "blue_ball"
+        },
+        "2281:2259": {
+            "x": 2281,
+            "y": 2259,
+            "object_code": "blue_ball"
+        },
+        "2281:2280": {
+            "x": 2281,
+            "y": 2280,
+            "object_code": "cyan_ball"
+        },
+        "2281:2281": {
+            "x": 2281,
+            "y": 2281,
+            "object_code": "cyan_ball"
+        },
+        "2281:2282": {
+            "x": 2281,
+            "y": 2282,
+            "object_code": "cyan_ball"
+        },
+        "2281:2283": {
+            "x": 2281,
+            "y": 2283,
+            "object_code": "cyan_ball"
+        }
+    },
+    "player_position": {
+        "x": 2272,
+        "y": 2272
+    },
+    "min_score_to_win": 100,
+    "time_limit": 30,
+    "max_speed": 206,
+    "acceleration": 9,
+    "zoom_value": 30,
+    "add_powers": false,
+    "map_edge_type": "deadly",
+    "edge_distance": 300,
+    "next_level": "https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c27.json",
+    "slow_time": "0.5",
+    "slow_time_duration": "1",
+    "size_power": "20",
+    "size_power_duration": "1",
+    "speed_power": "2",
+    "speed_power_duration": "1"
+}

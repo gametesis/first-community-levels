@@ -91,7 +91,7 @@
         "y": 2777
     },
     "min_score_to_win": 100,
-    "time_limit": 30,
+    "time_limit": 60,
     "max_speed": 250,
     "acceleration": 12,
     "zoom_value": 22,

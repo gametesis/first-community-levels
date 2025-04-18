@@ -1516,9 +1516,9 @@
         "y": 2777
     },
     "min_score_to_win": 4,
-    "time_limit": 13,
-    "max_speed": 250,
-    "acceleration": 12,
+    "time_limit": 30,
+    "max_speed": 350,
+    "acceleration": 18,
     "zoom_value": 22,
     "add_powers": false,
     "map_edge_type": "normal",

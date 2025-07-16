@@ -56,8 +56,8 @@
         "y": 2631
     },
     "min_score_to_win": 30,
-    "time_limit": 60,
-    "acceleration": 12,
+    "time_limit": 10,
+    "acceleration": 15,
     "max_speed": 250,
     "zoom_value": 24,
     "add_powers": false,
@@ -69,5 +69,11 @@
     "size_power": "20",
     "size_power_duration": "1",
     "speed_power": "2",
-    "speed_power_duration": "1"
+    "speed_power_duration": "1",
+    "space_background": {
+        "p_size": 0.3,
+        "impact_force": 1,
+        "number_of_particles": 200,
+        "collisions":true
+    }
 }

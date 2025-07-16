@@ -37,17 +37,23 @@
     },
     "min_score_to_win": 4,
     "time_limit": 7,
-    "max_speed": 180,
-    "acceleration": 12,
+    "max_speed": 400,
+    "acceleration": 33,
     "zoom_value": 20,
     "add_powers": false,
     "map_edge_type": "normal",
-    "edge_distance": 300,
+    "edge_distance": 250,
     "next_level":"https://raw.githubusercontent.com/gametesis/first-community-levels/main/community/c8.json",
     "slow_time": "0.5",
     "slow_time_duration": "1",
     "size_power": "20",
     "size_power_duration": "1",
     "speed_power": "2",
-    "speed_power_duration": "1"
+    "speed_power_duration": "1",
+    "space_background": {
+        "p_size": 0.3,
+        "impact_force": 1,
+        "number_of_particles": 200,
+        "collisions":true
+    }
 }
